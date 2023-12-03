@@ -1,16 +1,9 @@
 # task4
 
 A new Flutter project.
+![1](https://github.com/Fatma-abdelghany/Task-6/assets/143908737/b385cce8-294c-4546-abc8-5ec504ce14ea)
 
-## Getting Started
+#Output
+![2](https://github.com/Fatma-abdelghany/Task-6/assets/143908737/63b369d2-08e1-4973-abfb-4b347aec8cc2)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
