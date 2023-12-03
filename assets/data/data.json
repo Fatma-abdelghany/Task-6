@@ -1,0 +1,65 @@
+{
+  "products" : [
+    {
+        "id" : "1",
+        "name" : "bag",
+        "categoryId" : "1",
+        "description" : "good material",
+        "prict" : 20,
+        "quantity" : 12
+    },
+    {
+        "id" : "2",
+        "name" : "shoes",
+        "categoryId" : "1",
+        "description" : "good material",
+        "prict" : 33,
+        "quantity" : 5
+    }
+    ],  
+  "categories" : [
+    {
+        "id" : "1",
+        "title" : "new clothes",
+        "description" : "clother Category"
+    },
+    {
+        "id" : "2",
+        "title" : "Assets",
+        "description" : "assets Category"
+    }
+    ],
+  "Ads": [
+    {
+      "id": "1",
+      "title": "For all your summer clothing needs",
+      "image": "/clothes1.png"
+    },
+    {
+      "id": "2",
+      "title": "For all your summer clothing needs",
+      "image": "/clothes2.png"
+    },
+    {
+      "id": "3",
+      "title": "For all your summer clothing needs",
+      "image": "/clothes3.png"
+    },
+    {
+      "id": "4",
+      "title": "For all your summer clothing needs",
+      "image": "/clothes4.png"
+    },{
+      "id": "5",
+      "title": "For all your summer clothing needs",
+
+
+      "image": "/clothes5.png"
+    },
+    {
+      "id": "6",
+      "title": "For all your summer clothing needs",
+      "image": "/clothes6.png"
+    }
+  ]
+}

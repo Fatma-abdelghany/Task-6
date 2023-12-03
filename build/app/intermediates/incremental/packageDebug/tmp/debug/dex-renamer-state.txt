@@ -1,0 +1,4 @@
+#Sun Nov 26 11:40:22 EET 2023
+base.0=/Users/fatma/Documents/FlutterCourse/Projects/Advanced /Task4/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
